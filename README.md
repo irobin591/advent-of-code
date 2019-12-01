@@ -7,4 +7,4 @@ Total stars: 02/02
 
 | Day                                        | Stars  | Files |
 |--------------------------------------------|--------|-------|
-| [01](https://adventofcode.com/2019/day/1)  | ⭐️ ⭐️ | [Part 1](./day01_part1.py) [Part 2](./day01_part2.py)
+| [01](https://adventofcode.com/2019/day/1)  | ⭐️ ⭐️ | [Part 1](./day01/part1.py) [Part 2](./day01/part2.py)
