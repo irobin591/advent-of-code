@@ -1,3 +1,5 @@
+# Roughly inspired by https://github.com/AlexeSimon/adventofcode/blob/master/init.py
+
 from jinja2 import Environment, PackageLoader, select_autoescape, FileSystemLoader
 import os
 import json
