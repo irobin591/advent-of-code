@@ -5,6 +5,6 @@ This is my first time solving Advent of Code challenges so the repository struct
 
 Total stars: 00/00
 
-| Day                                        | Stars  | Files |
-|--------------------------------------------|--------|-------|
-|                                            |        |       |
+| Day                                        | Stars  |          Files          |
+|--------------------------------------------|--------|-------------------------|
+| [01](https://adventofcode.com/2020/day/1)  | ⭐️ ⭐️ | [code.py](./01/code.py) |
