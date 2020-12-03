@@ -1,0 +1,12 @@
+{
+    "user_session_id": "enter your session cookie here",
+    "author": "enter your username here",
+    "years": {
+        "start": 2020,
+        "end": 2020
+    },
+    "latest": {
+        "year": 2020,
+        "day": 1
+    }
+}
