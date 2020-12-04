@@ -10,3 +10,4 @@ Total stars: 06/06
 | [01](https://adventofcode.com/2020/day/1)  | ⭐️ ⭐️ | [code.py](./01/code.py) |
 | [02](https://adventofcode.com/2020/day/2)  | ⭐️ ⭐️ | [code.py](./02/code.py) |
 | [03](https://adventofcode.com/2020/day/3)  | ⭐️ ⭐️ | [code.py](./03/code.py) |
+| [04](https://adventofcode.com/2020/day/4)  | ⭐️ ⭐️ | [code.py](./04/code.py) |
