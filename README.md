@@ -5,4 +5,4 @@ Overall collected stars: 22/64
 
 - [2019](./2019/README.md) - Total stars: 08/50
 
-- [2020](./2020/README.md) - Total stars: 14/14
+- [2020](./2020/README.md) - Total stars: 16/16
