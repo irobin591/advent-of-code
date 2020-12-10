@@ -3,7 +3,7 @@ Here are my solutions to [Advent of Code](https://adventofcode.com/2020) written
 
 This is my first time solving Advent of Code challenges so the repository structure might change from day to day.
 
-Total stars: 18/18
+Total stars: 20/20
 
 | Day                                        | Stars  |          Files          |
 |--------------------------------------------|--------|-------------------------|
@@ -16,3 +16,4 @@ Total stars: 18/18
 | [07](https://adventofcode.com/2020/day/7)  | ⭐️ ⭐️ | [code.py](./07/code.py) |
 | [08](https://adventofcode.com/2020/day/8)  | ⭐️ ⭐️ | [code.py](./08/code.py) |
 | [09](https://adventofcode.com/2020/day/9)  | ⭐️ ⭐️ | [code.py](./09/code.py) |
+| [10](https://adventofcode.com/2020/day/10) | ⭐️ ⭐️ | [code.py](./10/code.py) |
