@@ -1,7 +1,7 @@
 # Advent of Code 2020
 Here are my solutions to [Advent of Code](https://adventofcode.com/2020) written in Python 3.7.
 
-This is my first time solving Advent of Code challenges so the repository structure might change from day to day.
+This is my second time solving Advent of Code challenges, but I only finished 4 days the year before.
 
 Total stars: 24/24
 
