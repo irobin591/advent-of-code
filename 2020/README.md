@@ -3,7 +3,7 @@ Here are my solutions to [Advent of Code](https://adventofcode.com/2020) written
 
 This is my second time solving Advent of Code challenges, but I only finished 4 days the year before.
 
-Total stars: 26/26
+Total stars: 28/28
 
 | Day                                        | Stars  |          Files          |
 |--------------------------------------------|--------|-------------------------|
@@ -20,3 +20,4 @@ Total stars: 26/26
 | [11](https://adventofcode.com/2020/day/11) | ⭐️ ⭐️ | [code.py](./11/code.py) |
 | [12](https://adventofcode.com/2020/day/12) | ⭐️ ⭐️ | [code.py](./12/code.py) |
 | [13](https://adventofcode.com/2020/day/13) | ⭐️ ⭐️ | [code.py](./13/code.py) |
+| [14](https://adventofcode.com/2020/day/14) | ⭐️ ⭐️ | [code.py](./14/code.py) |
