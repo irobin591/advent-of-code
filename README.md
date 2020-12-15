@@ -1,8 +1,8 @@
 # Advent of Code
 Here are my solutions to [Advent of Code](https://adventofcode.com/) written in Python since 2019.
 
-Overall collected stars: 36/78
+Overall collected stars: 38/80
 
 - [2019](./2019/README.md) - Total stars: 08/50
 
-- [2020](./2020/README.md) - Total stars: 28/28
+- [2020](./2020/README.md) - Total stars: 30/30
