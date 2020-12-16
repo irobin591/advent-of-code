@@ -71,8 +71,9 @@ def part2(input_data):
         last_id = i
         memory.append(entry)
 
-    import tqdm
-    for i in tqdm.tqdm(range(len(input_data), 30000000)):
+    # import tqdm
+    # for i in tqdm.tqdm(range(len(input_data), 30000000)):
+    for i in range(len(input_data), 30000000):
         new_entry = 0
         if last_element in last_repeat:
             new_entry = i - last_repeat[last_element] - 1
@@ -82,18 +83,6 @@ def part2(input_data):
         memory.append(new_entry)
         last_element = new_entry
         last_id = i
-
-        continue
-
-        
-        # new_entry = 0
-        # len_memory = len(memory)
-        # if last_element
-        # for x in range(1, len_memory):
-        #     if memory[len_memory-x-1] == last:
-        #         new_entry = x
-        #         break
-        # memory.append(new_entry)
     return last_element
 
 
