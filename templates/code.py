@@ -8,13 +8,10 @@ import doctest
 with open(os.path.join(os.path.dirname(__file__), "input.txt"), 'r') as input_file:
     input_data = input_file.read().strip().split('\n')
 
-# Prep Input
-# input_data = list(map(int, input_data.strip().split('\n')))
-
 
 def part1(input_data):
     """
-    >>> part1([""])
+    >>> part1(open(os.path.join(os.path.dirname(__file__), "test_part1.txt"), 'r').read().strip().split('\n'))
     None
     """
     return None
@@ -22,7 +19,7 @@ def part1(input_data):
 
 def part2(input_data):
     """
-    >>> part2([""])
+    >>> part2(open(os.path.join(os.path.dirname(__file__), "test_part2.txt"), 'r').read().strip().split('\n'))
     None
     """
     return None

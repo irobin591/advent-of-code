@@ -64,16 +64,3 @@ for year in range(config['years']['start'], config['years']['end']+1):
                     AUTHOR=config['author'],
                 ))
                 print("    Success")
-
-        # blag
-
-
-
-
-
-
-        # print(req.content)
-
-        # template = env.get_template("code.py")
-
-        # print(template.render(YEAR=config['year'], AUTHOR=config['author'], DAY=foldername))
