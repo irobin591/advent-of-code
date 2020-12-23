@@ -11,7 +11,7 @@ with open(os.path.join(os.path.dirname(__file__), "input.txt"), 'r') as input_fi
 
 def part1(input_data):
     """
-    >>> part1(open(os.path.join(os.path.dirname(__file__), "test_part1.txt"), 'r').read().strip().split('\n'))
+    >>> part1(open(os.path.join(os.path.dirname(__file__), "test_part1.txt"), 'r').read().strip().split('\\n'))
     None
     """
     return None
@@ -19,7 +19,7 @@ def part1(input_data):
 
 def part2(input_data):
     """
-    >>> part2(open(os.path.join(os.path.dirname(__file__), "test_part2.txt"), 'r').read().strip().split('\n'))
+    >>> part2(open(os.path.join(os.path.dirname(__file__), "test_part2.txt"), 'r').read().strip().split('\\n'))
     None
     """
     return None
