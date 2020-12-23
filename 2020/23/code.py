@@ -9,6 +9,12 @@ with open(os.path.join(os.path.dirname(__file__), "input.txt"), 'r') as input_fi
     input_data = input_file.read().strip()
 
 
+class Cup():
+    def __init__(self, cup_id):
+        self.id = cup_id
+        self.next_cup = None
+
+
 def part1(input_data):
     """
     >>> part1("389125467")
@@ -97,11 +103,6 @@ def part1(input_data):
 
     return result
 
-
-class Cup():
-    def __init__(self, cup_id):
-        self.id = cup_id
-        self.next_cup = None
 
 def part2(input_data):
     """
